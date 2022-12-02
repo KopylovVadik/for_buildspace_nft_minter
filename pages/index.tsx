@@ -39,7 +39,7 @@ const Home: NextPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built with @_yusufcihan
+                built with @_kopylov
               </a>
             </Box>
           </Center>
